@@ -48,13 +48,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Enesatay9899&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enesatay9899&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enesatay9899&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Enesatay9899&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enesatay9899&layout=compact&theme=dark&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Enesatay9899&theme=dark&hide_border=true" />
 
 </div>
 
