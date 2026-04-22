@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Current_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Current_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/><br/>
 
@@ -34,7 +34,8 @@
 
 | | Project | Details |
 |:--|:--------|:------------|
-| :rocket: | **[EnesRtpZone](https://github.com/Enesatay9899/EnesRtpZone-Plugin-Folia)** | Advanced Folia-supported RTP system for Minecraft servers. |
+| :rocket: | **[EnesRtp](https://github.com/Enesatay9899/EnesRtp-Plugin-Folia)** | Folia-supported Random Teleport plugin for modern Minecraft servers. |
+| :zap: | **[EnesRtpZone](https://github.com/Enesatay9899/EnesRtpZone-Plugin-Folia)** | Advanced zone-based RTP system designed for high-performance Folia environments. |
 
 </td>
 </tr>
