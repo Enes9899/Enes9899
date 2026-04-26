@@ -34,8 +34,8 @@
 
 | | Project | Details |
 |:--|:--------|:------------|
-| :rocket: | **[EnesRtp](https://github.com/Enes9899/EnesRtp-Plugin-Folia)** | Folia-supported Random Teleport plugin for modern Minecraft servers. |
-| :zap: | **[EnesRtpZone](https://github.com/Enes9899/EnesRtpZone-Plugin-Folia)** | Advanced zone-based RTP system designed for high-performance Folia environments. |
+| :rocket: | **[EnesRtp](https://github.com/Enesatay9899/EnesRtp-Plugin-Folia)** | Folia-supported Random Teleport plugin for modern Minecraft servers. |
+| :zap: | **[EnesRtpZone](https://github.com/Enesatay9899/EnesRtpZone-Plugin-Folia)** | Advanced zone-based RTP system designed for high-performance Folia environments. |
 
 </td>
 </tr>
@@ -49,15 +49,15 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enesatay9899&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enes9899&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enesatay9899&layout=compact&theme=dark&hide_border=true" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enes9899&layout=compact&theme=dark&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Enesatay9899&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Enes9899&theme=dark&hide_border=true" />
 
 </div>
 
