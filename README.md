@@ -34,7 +34,7 @@
 
 | | Project | Details |
 |:--|:--------|:------------|
-| :rocket: | **[EnesRtpZone](https://github.com/Enesatay9899/EnesRtpZone-Plugin-Folia)** | Advanced zone-based RTP system designed for high-performance Folia environments.[cite: 1] |
+| :rocket: | **[EnesRtpZone](https://github.com/Enesatay9899/EnesRtpZone-Plugin-Folia)** | Advanced zone-based RTP system designed for high-performance Folia environments. |
 
 </td>
 </tr>
@@ -49,12 +49,12 @@
 <div align="center">
 
 <!-- Ana İstatistik Kartı -->
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enes9899&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Enes9899&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 
 <br/>
 
 <!-- En Çok Kullanılan Diller -->
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enes9899&layout=compact&theme=dark&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes9899&layout=compact&theme=dark&hide_border=true" />
 
 <br/>
 
