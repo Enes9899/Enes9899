@@ -34,8 +34,7 @@
 
 | | Project | Details |
 |:--|:--------|:------------|
-| :rocket: | **[EnesRtp](https://github.com/Enesatay9899/EnesRtp-Plugin-Folia)** | Folia-supported Random Teleport plugin for modern Minecraft servers. |
-| :zap: | **[EnesRtpZone](https://github.com/Enesatay9899/EnesRtpZone-Plugin-Folia)** | Advanced zone-based RTP system designed for high-performance Folia environments. |
+| :rocket: | **[EnesRtpZone](https://github.com/Enesatay9899/EnesRtpZone-Plugin-Folia)** | Advanced zone-based RTP system designed for high-performance Folia environments.[cite: 1] |
 
 </td>
 </tr>
@@ -49,14 +48,17 @@
 
 <div align="center">
 
+<!-- Ana İstatistik Kartı -->
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enes9899&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 
 <br/>
 
+<!-- En Çok Kullanılan Diller -->
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enes9899&layout=compact&theme=dark&hide_border=true" />
 
 <br/>
 
+<!-- Streak İstatistikleri -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Enes9899&theme=dark&hide_border=true" />
 
 </div>
