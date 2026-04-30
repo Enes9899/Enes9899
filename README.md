@@ -34,7 +34,7 @@
 
 | | Project | Details |
 |:--|:--------|:------------|
-| :rocket: | **[EnesRtpZone](https://github.com/Enesatay9899/EnesRtpZone-Plugin-Folia)** | Advanced zone-based RTP system designed for high-performance Folia environments. |
+| :rocket: | **[EnesRtpZone](https://github.com/Enes9899/EnesRtpZone-Plugin)** | Advanced zone-based RTP system designed for high-performance Folia environments. |
 
 </td>
 </tr>
@@ -56,7 +56,7 @@
 
 <br/><br/>
 
-<!-- Hata veren Streak yerine daha stabil olan Activity Graph -->
+<!-- Stabil Çalışan Katkı Grafiği -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes9899&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
 
 </div>
