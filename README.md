@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Current_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Current_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/><br/>
 
@@ -50,25 +50,13 @@
 
 <!-- Ana İstatistik Kartı -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Enes9899&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-
-<br/>
-
+&nbsp;&nbsp;
 <!-- En Çok Kullanılan Diller -->
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes9899&layout=compact&theme=dark&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<!-- Streak İstatistikleri -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Enes9899&theme=dark&hide_border=true" />
-
-</div>
-
-<br/>
-
-###  Contribution Graph
-
-<div align="center">
-
+<!-- Hata veren Streak yerine daha stabil olan Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes9899&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
 
 </div>
