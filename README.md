@@ -4,7 +4,7 @@
 
 <br/>
 
-**`Minecraft Server Developer • Java, Python, JavaScript`**
+**`Languages • Java, Python, JavaScript`**
 
 <br/>
 
