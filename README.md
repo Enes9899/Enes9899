@@ -50,15 +50,15 @@
 
 <div align="center">
 
-<!-- Ana İstatistik Kartı -->
+
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Enes9899&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
-<!-- En Çok Kullanılan Diller -->
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes9899&layout=compact&theme=dark&hide_border=true" />
 
 <br/><br/>
 
-<!-- Stabil Çalışan Katkı Grafiği -->
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes9899&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
 
 </div>
