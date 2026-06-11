@@ -31,7 +31,6 @@
 
 <br/><br/>
 
-<sub><b>Featured Work</b></sub>
 
 <br/><br/>
 
