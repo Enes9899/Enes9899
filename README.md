@@ -50,9 +50,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Enes9899&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Enes9899&theme=github_dark" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes9899&layout=compact&theme=dark&hide_border=true" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Enes9899&theme=github_dark" />
 
 <br/><br/>
 
