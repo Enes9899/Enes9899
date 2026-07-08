@@ -50,16 +50,13 @@
 
 <div align="center">
 
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Enes9899&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Enes9899&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 &nbsp;&nbsp;
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes9899&layout=compact&theme=dark&hide_border=true" />
 
 <br/><br/>
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes9899&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes9899&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
 </div>
 
