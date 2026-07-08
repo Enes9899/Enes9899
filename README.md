@@ -50,13 +50,13 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Enes9899&show_icons=true&theme=calm&hide_border=true&rank_icon=github&count_private=true" />
-&nbsp;
-<img width="48%" src="https://github-metrics.lecoq.io/Enes9899?template=repository&languages=1&languages.ignored=html,css&config.timezone=Europe%2FIstanbul&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Enes9899&theme=github_dark" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Enes9899&theme=github_dark" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes9899&theme=react-dark&hide_border=true&area=true" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes9899&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
 </div>
 
