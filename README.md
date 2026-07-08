@@ -51,8 +51,6 @@
 <div align="center">
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Enes9899&theme=github_dark" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Enes9899&theme=github_dark" />
 
 <br/><br/>
 
